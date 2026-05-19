@@ -20,9 +20,9 @@ const Contact = () => {
       </div>
 
       <form className="contact-form">
-        <input type="text" placeholder="Your Name" />
-        <input type="email" placeholder="Your Email" />
-        <textarea placeholder="How can we help?"></textarea>
+        <input type="text" placeholder="Your Name" className="input"/>
+        <input type="email" placeholder="Your Email" className="input"/>
+        <textarea placeholder="How can we help?" className="input"></textarea>
         <button type="submit">Send Message</button>
       </form>
     </div>

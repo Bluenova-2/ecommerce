@@ -35,6 +35,11 @@ body { font-family: 'Segoe UI', sans-serif; margin: 0; background: #f4f4f9; }
   
 }
 
+.input{
+  background-color: rgb(26, 26, 26);
+  border-radius: 10px;
+}
+
 .card {
   background: white;
   padding: 20px;
