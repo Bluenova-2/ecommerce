@@ -1,0 +1,51 @@
+.footer{
+    background-color:  rgba(18, 18, 18, 0.95);
+    width: 100%;
+    
+}
+
+.input-style{
+    border-radius: 30px 0 0 30px;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    border:  #333;
+    position: relative;
+    outline: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button{
+    height: 52px;
+    width: 50px;
+    position: absolute;
+    border-radius: 0 30px 30px 0;
+    border: #333;
+    cursor: pointer;
+   background-color:  rgba(18, 18, 18, 0.95);
+    border: 2px solid #fff;
+}
+
+.footer-cover-for-links{
+    display: flex;
+    
+}
+.customer-service-card{
+    margin-right: 125px;
+}
+
+
+.navlink{
+    color: rgb(102, 99, 99);
+}
+.navlink:hover{
+    color: greenyellow;
+}
+
+.br{
+    color: rgb(102, 99, 99);
+}
+
+
+
+
